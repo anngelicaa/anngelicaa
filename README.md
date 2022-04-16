@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anngelicaa
 - 👀 I’m interested in learning about data science
-- 🌱 I’m currently learning PL/SQL
+- 🌱 I’m currently studying apps development and learning PL/SQL
 - 📫 You can reach me at angelicavmp@gmail.com
 
 <!---
